@@ -1,0 +1,1 @@
+{"name":"chat-device-v4","version":"4.0.0","private":true,"scripts":{"start":"node server/server.js","build":"npm install --prefix server"}}
